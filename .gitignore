@@ -2,3 +2,8 @@ data
 Submission
 ignore
 tmp.h5
+saved_models
+resnet_builder.py
+__pycache__
+
+
